@@ -21,8 +21,11 @@ body {
 }
 
 @media (max-width:768px) {
-.header-img { text-align: center;
-}
+
+    .header-img { 
+        text-align: center;
+    }
+
 }
 
 .main-section {
@@ -49,6 +52,7 @@ ul {
 li, h3 {
     list-style:none;
 }
+
 input,button {
     outline:none;
 }
